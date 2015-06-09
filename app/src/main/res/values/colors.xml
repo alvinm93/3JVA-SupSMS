@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#FF9326</color>
+    <color name="main_color_dark">#B25900</color>
+
+    <color name="operation_ui_success">#00B200</color>
+    <color name="operation_ui_error">#D90000</color>
+</resources>
