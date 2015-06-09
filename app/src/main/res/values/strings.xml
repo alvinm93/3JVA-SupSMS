@@ -52,5 +52,5 @@
     <string name="version_info" formatted="false">Version %s</string>
 
     <string name="about_header">SUPINFO 3JVA - Séquence 2\n\n\nÉquipe :</string>
-    <string name="about_team_members">157959 - MEIMOUN Alvin\n162520 - BODIN Quantin\n162365 - ELYAZZAOUI Ayoub\n175851 - DAHMAOUI Jalal</string>
+    <string name="about_team_members">157959 - MEIMOUN Alvin</string>
 </resources>
